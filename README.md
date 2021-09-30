@@ -1,4 +1,4 @@
-<h1 align="center">Torrent Mirror Bot</h1> 
+<h2 align="center">Torrent Mirror Bot</h2> 
 <p align="center">
 <a href="#"><img alt="donate" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"/></a>
 </p>
